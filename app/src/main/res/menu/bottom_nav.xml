@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/home_nav"
+        android:title="Home"
+        android:icon="@drawable/hospital_sign"/>
+
+
+    <item
+        android:id="@+id/ask_nav"
+        android:title="Ask AI"
+        android:icon="@drawable/bot_green"/>
+
+
+    <item
+        android:id="@+id/schedule_nav"
+        android:title="Profile"
+        android:icon="@drawable/schedule_green"/>
+
+    <item
+        android:id="@+id/profile_nav"
+        android:title="Profile"
+        android:icon="@drawable/baseline_person" />
+
+
+
+
+
+
+
+</menu>

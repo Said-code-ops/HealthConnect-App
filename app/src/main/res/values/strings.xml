@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HealthConnect App</string>
+    <string name="welcome" translatable="false">Welcome</string>
+    <string name="welcome_note" translatable="false">HealthConnect App- Connect with your healthcare providers.
+        Sign In to explore or Sign Up now to unlock personalized healthcare solutions.</string>
+    <string name="sign_up" translatable="false">Sign Up</string>
+    <string name="jisajili" translatable="false">Jisajili</string>
+    <string name="sign_in" translatable="false">Sign In</string>
+    <string name="ingia" translatable="false">Ingia</string>
+    <string name="forgot_password" translatable="false">forgot Password?</string>
+</resources>
